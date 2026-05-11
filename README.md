@@ -1,103 +1,91 @@
-<h1 align="center">Hi 👋, I'm Pedro Frigeri</h1>
+## Hi there 👋
 
-<h3 align="center">
-Back-End Developer in Progress 🚀 <br>
-Python • Machine Learning • AWS • Data Analysis
-</h3>
+<!--
+**Devzyst/Devzyst** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
----
+Here are some ideas to get you started:
 
-### 👨‍💻 About Me
-
-- 🎓 Software Engineering Student at PUC-Campinas (1/8)
-- 🌱 Currently learning:
-  - Python
-  - Pandas & NumPy
-  - MySQL
-  - Git & GitHub
-  - Machine Learning
-  - AWS
-- 🔭 Working on personal projects to improve my back-end skills
-- 📚 Always learning new technologies
-- 📫 Contact: **devpedro07@gmail.com**
-
----
-
-### 🌐 Connect with Me
-
-<p align="left">
-<a href="https://linkedin.com/in/pedro-frigeri-20244b352" target="blank">
-<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" />
-</a>
-
-<a href="https://instagram.com/pedrzyx_" target="blank">
-<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="instagram" height="30" width="40" />
-</a>
-</p>
-
----
-
-### ⚒️ Languages & Tools
-
-<p align="left">
-
-<a href="https://www.python.org/" target="_blank">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="45" height="45"/>
-</a>
-
-<a href="https://pandas.pydata.org/" target="_blank">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="pandas" width="45" height="45"/>
-</a>
-
-<a href="https://numpy.org/" target="_blank">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" alt="numpy" width="45" height="45"/>
-</a>
-
-<a href="https://www.mysql.com/" target="_blank">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="45" height="45"/>
-</a>
-
-<a href="https://git-scm.com/" target="_blank">
-<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="45" height="45"/>
-</a>
-
-<a href="https://github.com/" target="_blank">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="github" width="45" height="45"/>
-</a>
-
-<a href="https://aws.amazon.com/" target="_blank">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="45" height="45"/>
-</a>
-
-<a href="https://www.figma.com/" target="_blank">
-<img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="45" height="45"/>
-</a>
-
-</p>
-
----
-
-### 📊 GitHub Stats
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->
+<h1 align="center">👋 Fala aí, eu sou o Pedro</h1>
 
 <p align="center">
-
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=Devzyst&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Devzyst&layout=compact&theme=tokyonight&hide_border=true"/>
-
+  💻 Engenheiro de Software em formação <br>
+  🚀 Focado em Back-end, Dados e Machine Learning
 </p>
 
 ---
 
-### 🚀 Featured Projects
+## 🧠 Sobre mim
 
-- 📌 Customer Churn Prediction
-- 📌 Machine Learning Studies
-- 📌 Back-End Projects with Python
-- 📌 Data Analysis Projects
+- 🔥 Experiência avançada com **Python**
+- 🗄️ Forte conhecimento em **MySQL**
+- 📊 Trabalho com **Pandas** e **NumPy**
+- 🤖 Estudando e aplicando **Machine Learning**
+- 🔧 Versionamento com **Git**
+- ⚡ Sempre buscando evoluir e construir projetos reais
 
 ---
 
+## 🚀 Tecnologias
+
 <p align="center">
-🔥 Building my path to become a great software engineer.
+  <img src="https://skillicons.dev/icons?i=python,mysql,git" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy" />
+  <img src="https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge" />
+</p>
+
+---
+
+## 📊 Estatísticas
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=SEU_USERNAME&show_icons=true&theme=tokyonight" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USERNAME&layout=compact&theme=tokyonight" />
+</p>
+
+---
+
+## 🌐 Contato
+
+<p align="center">
+  <a href="mailto:devpedro07@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Enviar-red?style=for-the-badge&logo=gmail" />
+  </a>
+  <a href="https://www.instagram.com/pedrzyx_/">
+    <img src="https://img.shields.io/badge/Instagram-Seguir-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+</p>
+
+<p align="center">
+  📱 <strong>Telefone:</strong> (19) 97108-7147
+</p>
+
+---
+
+## 🌍 Portfólio
+
+<p align="center">
+  <a href="#">
+    <img src="https://img.shields.io/badge/🚀%20Acessar%20Portfólio-Em%20Breve-blueviolet?style=for-the-badge" />
+  </a>
+</p>
+
+---
+
+## ⚡ Frase
+
+<p align="center">
+  "Código limpo sempre vence no longo prazo."
 </p>
