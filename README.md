@@ -44,7 +44,7 @@ Tenho conhecimento em:
 # 🚀 Tecnologias & Skills
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,c,cpp,css,mysql,git,github,linux,aws" />
+  <img src="https://skillicons.dev/icons?i=python,c,mysql,git,github,aws" />
 </p>
 
 <p align="center">
