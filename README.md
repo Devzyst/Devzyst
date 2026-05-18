@@ -2,7 +2,7 @@
 
 <p align="center">
   💻 Estudante de Engenharia de Software <br>
-  🚀 Back-End Developer | Python • C • C++ • APIs • AWS • SQL • Git/GitHub
+  🚀 Back-End Developer | Python • C • APIs • AWS • SQL • Git/GitHub
 </p>
 
 <p align="center">
@@ -30,13 +30,11 @@ Atualmente desenvolvo projetos práticos utilizando Python, APIs, SQL, AWS e Mac
 Tenho conhecimento em:
 - Python
 - C
-- C++
 - SQL
 - MySQL
 - AWS
 - APIs REST
 - Git/GitHub
-- CSS
 - Pandas
 - NumPy
 - Machine Learning
@@ -52,7 +50,6 @@ Tenho conhecimento em:
 <p align="center">
   <img src="https://img.shields.io/badge/Python-Advanced-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/C-Language-00599C?style=for-the-badge&logo=c" />
-  <img src="https://img.shields.io/badge/C++-Programming-00599C?style=for-the-badge&logo=cplusplus" />
   <img src="https://img.shields.io/badge/SQL-Database-4479A1?style=for-the-badge&logo=mysql" />
   <img src="https://img.shields.io/badge/AWS-Cloud-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />
 </p>
@@ -60,7 +57,6 @@ Tenho conhecimento em:
 <p align="center">
   <img src="https://img.shields.io/badge/APIs-Backend%20Development-6C63FF?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Git/GitHub-Version%20Control-181717?style=for-the-badge&logo=github" />
-  <img src="https://img.shields.io/badge/CSS-Frontend%20Styling-1572B6?style=for-the-badge&logo=css3" />
   <img src="https://img.shields.io/badge/Pandas-Data%20Analysis-150458?style=for-the-badge&logo=pandas" />
   <img src="https://img.shields.io/badge/NumPy-Numerical%20Computing-013243?style=for-the-badge&logo=numpy" />
   <img src="https://img.shields.io/badge/Machine%20Learning-AI-FF6F00?style=for-the-badge" />
@@ -90,17 +86,14 @@ Tenho conhecimento em:
 
 ✅ Python  
 ✅ C  
-✅ C++  
 ✅ SQL  
 ✅ MySQL  
 ✅ APIs REST  
 ✅ AWS Cloud  
 ✅ Git/GitHub  
-✅ CSS  
 ✅ Machine Learning  
 ✅ Pandas  
-✅ NumPy  
-✅ Linux  
+✅ NumPy   
 
 ---
 
